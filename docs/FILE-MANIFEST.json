@@ -1,0 +1,14 @@
+{
+  "project": "Plateria QR Menu SaaS",
+  "archive_status": "initial source archive; not complete SaaS",
+  "files": [
+    {"path": "README.md", "description": "Repository overview and status"},
+    {"path": ".gitignore", "description": "Git ignore rules"},
+    {"path": "docs/Restaurant-QR-Menu-SaaS-Blueprint.pdf", "description": "Original platform blueprint"},
+    {"path": "docs/SOURCE-INVENTORY.md", "description": "Source and scope inventory"},
+    {"path": "docs/FILE-MANIFEST.json", "description": "Repository file manifest"},
+    {"path": "restaurant-demos/golpo-solpo-fixed-menu.html", "description": "Golpo Solpo menu prototype"},
+    {"path": "restaurant-demos/Payel-Restaurant-Premium-Digital-Menu.html", "description": "Payel Restaurant menu prototype"},
+    {"path": "restaurant-demos/Akanto-Apon-Restaurant-Luxury-Digital-Menu.html", "description": "Akanto Apon menu prototype"}
+  ]
+}
